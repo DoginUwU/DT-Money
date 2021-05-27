@@ -1,5 +1,7 @@
 # DT Money
 
+![Screenshot_3](https://user-images.githubusercontent.com/59850361/119843240-bc3b8800-bedd-11eb-9c78-84eddf009893.png)
+
 Simples página de transações de banco criado para o bootcamp Ignite da RocketSeat
 
 ## Como inicializar
